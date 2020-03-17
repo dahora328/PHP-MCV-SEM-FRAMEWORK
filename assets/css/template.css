@@ -1,0 +1,105 @@
+body h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+nav button a{
+	color: #ffffff;
+	text-decoration: none;
+}
+nav button a:hover{
+	color: #ffffff;
+}
+button a{
+	color: #ffffff;
+	text-decoration: none;
+}
+button a:hover{
+	color: #ffffff;
+	text-decoration: none;
+}
+button.btn-sair{
+	color: #000000;
+}
+ul.sair{
+	position: relative;
+	right: 5%;
+}
+button.btn-sair:hover{
+	color: #000000;
+	text-decoration: none;
+}
+button.btn-deletar{
+	color: #000000;
+}
+button.btn-deletar:hover{
+	color: #000000;
+	text-decoration: none;
+}
+.card-deck{
+	position: relative;
+	left: 2%;
+	width: 95%;
+}
+.dropdown-menu{
+	text-align: center;
+}
+.navbar{
+	width: 100%;
+	position: absolute;
+}
+.navbar-brand{
+	color: #ffffff;
+	text-decoration: none;
+}
+.navbar-brand:hover{
+	color: #ffffff;
+	text-decoration: none;
+}
+.nav-link{
+	color: #ffffff;
+	text-align: center;
+}
+.nav-link:hover{
+	color: #ffffff;
+	text-decoration: none;
+}
+.table{
+	text-align: center;
+}
+.table tr td button{
+	position: relative;
+	font-size: 10px;
+	height: 30px;
+	left: -17%;
+}
+.pesquisar{
+	position: relative;
+	margin-top: -30%;
+	left: 10%;
+	width: 100%;
+}
+.editar{
+	position: relative;
+	margin-top: -30%;
+	left: 10%;
+	width: 100%;
+}
+.excluir{
+	position: relative;
+	margin-top: -30%;
+	left: 5%;
+	width: 100%;
+}
+.finalizar{
+	position: relative;
+	margin-top: -30%;
+	left: 5%;
+	width: 100%;
+}
+.fundo{
+	position: relative;
+	left: 25%;
+	height: 50%;
+}
